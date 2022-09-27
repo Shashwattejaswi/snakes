@@ -1,0 +1,30 @@
+#field{background-color: 
+    rgb(164, 248, 85);
+height:600px;
+width:600px;
+display: flex;
+flex-wrap: wrap;
+}
+
+body{margin: 0px;
+padding:0px;
+/* display: flex;
+justify-content: center;
+align-items: center; */}
+
+.snakePath{
+    height:30px;
+    width: 30px;
+   
+}
+.snakeBody{
+    height:30px;
+    width: 30px;
+    background-color: rgb(185, 80, 255);
+}
+.snakeFood{
+    height:30px;
+    width: 30px;
+    background-color: coral;
+    border-radius: 45%;
+}
